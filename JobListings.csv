@@ -1,0 +1,51 @@
+JobID,JobTitle,Description,Status,JobType,Location,JobCategoryID,DepartmentID
+YQ3G4,Software Engineer,Develop and maintain software applications.,Open,Full-Time,"Toronto, ON",10044,101
+SCBTY,Data Analyst,Analyze data and generate reports.,Closed,Part-Time,"Vancouver, BC",10041,102
+XZ5QV,Marketing Manager,Plan and execute marketing strategies.,Open,Full-Time,"Montreal, QC",10047,103
+HU6I8,HR Specialist,Manage recruitment and employee relations.,Open,Contract,"Calgary, AB",10013,104
+FIT85,Sales Representative,Sell products and services to clients.,Closed,Full-Time,"Ottawa, ON",10025,105
+U54H1,Network Administrator,Maintain and troubleshoot network systems.,Open,Full-Time,"Edmonton, AB",10032,106
+U0Y61,Financial Analyst,Analyze financial data and prepare reports.,Open,Part-Time,"Winnipeg, MB",10018,107
+NQN6N,Customer Support,Provide support to customers via phone and email.,Closed,Full-Time,"Quebec City, QC",10033,108
+FH1OR,Project Manager,Manage projects from inception to completion.,Open,Full-Time,"Hamilton, ON",10004,109
+A7MIP,Graphic Designer,Create visual content for marketing and branding.,Open,Contract,"Kitchener, ON",10031,110
+851N7,Accountant,Manage financial records and prepare tax returns.,Closed,Full-Time,"London, ON",10014,111
+Y0TSU,IT Support Specialist,Provide technical support to employees.,Open,Part-Time,"Victoria, BC",10009,112
+JW8AV,Business Analyst,Analyze business processes and recommend improvements.,Open,Full-Time,"Halifax, NS",10050,113
+SV54Q,Web Developer,Develop and maintain websites.,Closed,Full-Time,"Mississauga, ON",10007,114
+56SAH,Product Manager,Oversee product development and launch.,Open,Full-Time,"Brampton, ON",10048,115
+S8JIV,Operations Manager,Manage daily operations and improve efficiency.,Open,Full-Time,"Surrey, BC",10005,116
+IXAES,Content Writer,Write and edit content for websites and blogs.,Closed,Part-Time,"Laval, QC",10037,117
+9P926,Systems Engineer,Design and implement IT systems.,Open,Full-Time,"Markham, ON",10034,118
+VC4WV,Recruiter,Source and hire top talent for the company.,Open,Contract,"Gatineau, QC",10020,119
+2V3FT,Quality Assurance,Ensure products meet quality standards.,Closed,Full-Time,"Longueuil, QC",10049,120
+GGPAK,UX Designer,Design user-friendly interfaces for applications.,Open,Full-Time,"Burnaby, BC",10016,121
+LLFKV,Logistics Coordinator,Coordinate and monitor supply chain operations.,Open,Part-Time,"Saskatoon, SK",10010,122
+G68Z9,Research Scientist,Conduct research and experiments in a lab setting.,Closed,Full-Time,"Regina, SK",10017,123
+RGV8U,Legal Advisor,Provide legal advice and support to the company.,Open,Full-Time,"Oakville, ON",10027,124
+KAFMI,Social Media Manager,Manage and grow social media presence.,Open,Contract,"Richmond, BC",10045,125
+OJC64,Database Administrator,Maintain and optimize database systems.,Closed,Full-Time,"Vaughan, ON",10026,126
+5OSWG,Security Analyst,Monitor and protect company IT systems.,Open,Full-Time,"Burlington, ON",10012,127
+YHZCY,Event Coordinator,Plan and execute company events.,Open,Part-Time,"Richmond Hill, ON",10001,128
+IFE3S,Training Specialist,Develop and deliver training programs.,Closed,Full-Time,"Oshawa, ON",10046,129
+VO40H,Procurement Officer,Manage purchasing and supplier relationships.,Open,Full-Time,"Sherbrooke, QC",10028,130
+8PPB5,Technical Writer,Create technical documentation and manuals.,Open,Contract,"Saguenay, QC",10035,131
+TOB8V,Health & Safety Officer,Ensure workplace compliance with safety regulations.,Closed,Full-Time,"Lévis, QC",10006,132
+1BF4L,Compliance Officer,Ensure company adherence to legal and regulatory standards.,Open,Full-Time,"Kelowna, BC",10030,133
+9U0MB,Data Scientist,Analyze complex data sets to provide insights.,Open,Full-Time,"Barrie, ON",10038,134
+VMIA2,Customer Success Manager,Ensure customer satisfaction and retention.,Closed,Full-Time,"Abbotsford, BC",10002,135
+NND89,IT Project Manager,Manage IT projects and ensure timely delivery.,Open,Full-Time,"Coquitlam, BC",10022,136
+GKEGX,Financial Controller,Oversee financial reporting and compliance.,Open,Contract,"Trois-Rivières, QC",10003,137
+MZ5OF,Supply Chain Manager,Manage and optimize supply chain operations.,Closed,Full-Time,"Guelph, ON",10040,138
+9XJNZ,Mobile Developer,Develop and maintain mobile applications.,Open,Full-Time,"Cambridge, ON",10036,139
+AZNVL,Public Relations Officer,Manage public image and media relations.,Open,Part-Time,"Whitby, ON",10024,140
+ZFZP4,Environmental Specialist,Ensure compliance with environmental regulations.,Closed,Full-Time,"Milton, ON",10042,141
+PZ75Z,IT Consultant,Provide IT consulting services to clients.,Open,Full-Time,"Ajax, ON",10011,142
+VNKRT,Sales Manager,Lead and manage the sales team.,Open,Full-Time,"Langley, BC",10023,143
+M3SVB,Business Development,Identify and pursue new business opportunities.,Closed,Full-Time,"Saanich, BC",10019,144
+Z06Y6,IT Trainer,Train employees on IT systems and software.,Open,Contract,"Terrebonne, QC",10051,145
+EL48J,Risk Manager,Identify and mitigate risks to the company.,Open,Full-Time,"St. Catharines, ON",10021,146
+GEB3C,E-commerce Specialist,Manage online sales and marketing strategies.,Closed,Full-Time,"Kingston, ON",10008,147
+KQ3I8,Cloud Engineer,Design and manage cloud infrastructure.,Open,Full-Time,"Waterloo, ON",10043,148
+GC2TL,Talent Acquisition,Source and recruit top talent for the company.,Open,Part-Time,"Delta, BC",10015,149
+9U2EG,Cybersecurity Analyst,Protect company systems from cyber threats.,Closed,Full-Time,"Thunder Bay, ON",10029,150
