@@ -1,7 +1,7 @@
 # Job-Recommendation-System-Database
 SQL project for building a job recommendation system with candidate-job matching logic and ML-ready queries.
 
-This repository showcases a **Job Recommendation System** built using **MySQL**, designed to match candidates with the right job opportunities based on skills, experience, and preferences. The project was developed as part of a university course assignment for **CPSC-500-7: SQL Databases**.
+This repository showcases a **Job Recommendation System** built using **MySQL**, designed to match candidates with the right job opportunities based on skills, experience, and preferences. The project was developed as part of a university course assignment for **SQL Databases**.
 
 ## 👥 Teamwork and Contribution
 
